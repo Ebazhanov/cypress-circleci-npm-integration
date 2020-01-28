@@ -1,22 +1,7 @@
 {
-  "name": "cypress-circleci",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ebazhanov/cypress-circleci.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ebazhanov/cypress-circleci/issues"
-  },
-  "homepage": "https://github.com/Ebazhanov/cypress-circleci#readme",
   "dependencies": {
     "cypress": "^3.8.3"
   }
